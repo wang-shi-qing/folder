@@ -27,7 +27,7 @@ style.innerHTML = `
 document.head.appendChild(style);
 
 // 打字机效果
-const txt = "白旭辉，我喜欢你很久了，我的世界因为你而发光。我想牵着你的手，走过每一个春夏秋冬。你愿意做我的女朋友吗？";
+const txt = "裴洋，我喜欢你很久了，我的世界因为你而发光。我想牵着你的手，走过每一个春夏秋冬。你愿意做我的女朋友吗？";
 const dom = document.getElementById("text");
 let i = 0;
 function write() {
